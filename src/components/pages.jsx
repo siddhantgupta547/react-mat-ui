@@ -13,8 +13,8 @@ export default function Pages() {
         Create a Note
         <br />
         <Button
-          variant="outlined"
-          color="error"
+          variant="contained"
+          color="secondary"
           size="small"
           endIcon={<CreateIcon />}
         >
